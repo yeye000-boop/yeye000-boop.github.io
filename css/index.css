@@ -1,0 +1,14 @@
+#main p {
+    line-height: 35px;
+    font-size: 14px;
+}
+
+#main img {
+    width: 400px;
+    height: 320px;
+    float: right;
+}
+
+#main p span:first-child {
+    font-weight: 550;
+}
